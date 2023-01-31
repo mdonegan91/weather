@@ -1,6 +1,6 @@
 # Title
 
-##### By _Molly Donegan_
+##### By _David Jandron_
 
 #### _Description_
 
@@ -13,9 +13,6 @@ _A web application that..._
 * Boostrap
 * Webpack
 
-## Github Pages Site
-
-[Title](https://mdonegan91.github.io/title/)
 
 ## Setup/Installation Requirements
 
@@ -35,4 +32,4 @@ _A web application that..._
 
 * _MIT_
 
-Copyright (c) _2023_ _Molly Donegan_
+Copyright (c) _2023_ _David Jandron_
