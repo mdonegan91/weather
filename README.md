@@ -23,7 +23,7 @@ _A web application that..._
 * _Update the "name" of your project in ``package.json``_
 * _Package and open the project in your browser using ``npm run start``_
 * _Lint JS files in the ``src`` folder with ``npm run lint``_
-* _Runntests with Jest using ``npm run test``_
+* _Run tests with Jest using ``npm run test``_
 
 ## Known Bugs
 
