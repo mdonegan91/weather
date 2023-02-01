@@ -32,4 +32,4 @@ _A web application that..._
 
 * _MIT_
 
-Copyright (c) _2023_ _David Jandron_
+Copyright (c) _2023_ _Molly Donegan_
